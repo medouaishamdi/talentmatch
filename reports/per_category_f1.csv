@@ -1,0 +1,44 @@
+,precision,recall,f1-score,support
+Management,0.4516,0.4375,0.4444,64.0
+BPO,0.6136,0.6923,0.6506,39.0
+Designing,0.7561,0.6327,0.6889,49.0
+React Developer,0.8667,0.5909,0.7027,22.0
+Database,0.6863,0.7447,0.7143,47.0
+SQL Developer,0.8293,0.68,0.7473,50.0
+Sales,0.6962,0.8088,0.7483,68.0
+Automobile,0.8077,0.7,0.75,60.0
+Web Designing,0.8298,0.7091,0.7647,55.0
+Finance,0.7937,0.7576,0.7752,66.0
+Advocate,0.7246,0.8929,0.8,56.0
+Digital Media,0.8644,0.75,0.8031,68.0
+Information Technology,0.8039,0.8039,0.8039,51.0
+Architecture,0.8679,0.7541,0.807,61.0
+Testing,0.7746,0.8594,0.8148,64.0
+Education,0.7927,0.8442,0.8176,77.0
+Arts,0.8113,0.86,0.835,50.0
+Building and Construction,0.8594,0.8209,0.8397,67.0
+Operations Manager,0.8056,0.8923,0.8467,65.0
+Public Relations,0.8644,0.8361,0.85,61.0
+Civil Engineer,0.8209,0.8871,0.8527,62.0
+Consultant,0.8657,0.8406,0.8529,69.0
+Data Science,0.9167,0.8,0.8544,55.0
+Aviation,0.8507,0.8769,0.8636,65.0
+Agriculture,0.9722,0.7778,0.8642,45.0
+Business Analyst,0.8833,0.8548,0.8689,62.0
+Accountant,0.8906,0.8507,0.8702,67.0
+Banking,0.8644,0.8793,0.8718,58.0
+ETL Developer,0.9333,0.8235,0.875,51.0
+Apparel,0.8108,0.9524,0.8759,63.0
+Python Developer,0.9,0.8571,0.878,42.0
+SAP Developer,0.9091,0.8772,0.8929,57.0
+PMO,0.913,0.875,0.8936,48.0
+Human Resources,0.8108,1.0,0.8955,60.0
+Health and Fitness,0.8983,0.8983,0.8983,59.0
+DotNet Developer,0.8852,0.931,0.9076,58.0
+Network Security Engineer,0.9048,0.9344,0.9194,61.0
+Mechanical Engineer,0.913,0.9403,0.9265,67.0
+Food and Beverages,0.963,0.8966,0.9286,29.0
+Blockchain,0.8889,1.0,0.9412,8.0
+Electrical Engineering,0.9103,0.9861,0.9467,72.0
+Java Developer,0.9219,0.9833,0.9516,60.0
+DevOps,1.0,0.9592,0.9792,49.0

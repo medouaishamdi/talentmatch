@@ -1,0 +1,4 @@
+model,macro_f1,macro_f1_std,seconds
+Linear SVM,0.8093,0.0069,23.2
+Logistic Regression,0.8036,0.0055,53.5
+Complement Naive Bayes,0.7068,0.0026,19.5

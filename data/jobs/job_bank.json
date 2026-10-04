@@ -1,0 +1,164 @@
+[
+  {
+    "id": "data-scientist",
+    "title": "Data Scientist",
+    "category": "Data Science",
+    "text": "Data Scientist\n\nWe are looking for a Data Scientist to build predictive models that drive product and business decisions.\n\nResponsibilities\n- Build, evaluate and deploy machine learning models (classification, regression, forecasting)\n- Analyze large datasets with Python, pandas and SQL\n- Design A/B tests and communicate results to stakeholders\n- Create dashboards and data visualizations\n\nRequirements\n- 2+ years of experience in data science or machine learning\n- Strong Python, pandas, NumPy and scikit-learn\n- Solid SQL and statistics\n- Experience with feature engineering and model evaluation\n- Bachelor's degree in Computer Science, Statistics, Mathematics or related field\n\nNice to have\n- Deep learning with TensorFlow or PyTorch\n- Experience with Spark, MLOps or cloud platforms (AWS, GCP)\n- NLP or time series forecasting"
+  },
+  {
+    "id": "python-developer",
+    "title": "Python Backend Developer",
+    "category": "Python Developer",
+    "text": "Python Backend Developer\n\nJoin our platform team to design and build scalable backend services.\n\nWhat you will do\n- Develop REST APIs with Django or FastAPI\n- Write clean, tested Python code (pytest, unit testing)\n- Work with PostgreSQL and Redis\n- Containerize services with Docker and deploy through CI/CD pipelines\n\nRequirements\n- 2+ years of professional Python development\n- Experience with Django, Flask or FastAPI\n- Good knowledge of SQL databases (PostgreSQL or MySQL)\n- Git, Linux and REST API design\n- Bachelor's degree in Computer Science or equivalent\n\nNice to have\n- Docker, Kubernetes, AWS\n- Celery, Kafka or message queues\n- Microservices architecture"
+  },
+  {
+    "id": "java-developer",
+    "title": "Java Software Engineer",
+    "category": "Java Developer",
+    "text": "Java Software Engineer\n\nWe build enterprise applications used by thousands of customers.\n\nResponsibilities\n- Design and develop backend services in Java with Spring Boot\n- Build RESTful APIs and microservices\n- Write unit tests with JUnit\n- Participate in Agile/Scrum ceremonies and code reviews\n\nRequirements\n- 3+ years of experience with Java (Java 8+)\n- Spring Boot, Spring MVC, Hibernate/JPA\n- SQL databases such as Oracle, MySQL or PostgreSQL\n- Maven or Gradle, Git, Jenkins\n- Bachelor's degree in Computer Science or Engineering\n\nPreferred\n- Microservices, Docker, Kubernetes\n- Kafka, AWS\n- Angular or React for occasional frontend work"
+  },
+  {
+    "id": "dotnet-developer",
+    "title": ".NET Developer",
+    "category": "DotNet Developer",
+    "text": ".NET Developer\n\nWe are hiring a .NET developer to build and maintain business web applications.\n\nResponsibilities\n- Develop web applications with C#, ASP.NET Core MVC and Web API\n- Use Entity Framework Core with SQL Server\n- Write stored procedures and optimize SQL queries\n- Collaborate in an Agile team using Azure DevOps\n\nRequirements\n- 2+ years of experience with C# and ASP.NET\n- Entity Framework, LINQ, SQL Server\n- HTML, CSS, JavaScript\n- Understanding of OOP and design patterns\n- Bachelor's degree in Computer Science\n\nNice to have\n- Azure cloud services\n- Angular or React\n- Unit testing with xUnit or NUnit"
+  },
+  {
+    "id": "react-developer",
+    "title": "Frontend Developer (React)",
+    "category": "React Developer",
+    "text": "Frontend Developer (React)\n\nHelp us craft fast, accessible user interfaces.\n\nWhat you will do\n- Build responsive web applications with React and TypeScript\n- Manage state with Redux or React hooks\n- Integrate REST and GraphQL APIs\n- Write tests with Jest and React Testing Library\n\nRequirements\n- 2+ years of experience with React\n- Strong JavaScript (ES6+), TypeScript, HTML and CSS\n- Responsive design and web accessibility\n- Git and modern build tools (Webpack or Vite)\n\nNice to have\n- Next.js\n- Tailwind CSS or Material UI\n- Node.js experience\n- Figma"
+  },
+  {
+    "id": "web-designer",
+    "title": "Web Designer",
+    "category": "Web Designing",
+    "text": "Web Designer\n\nWe need a creative web designer to design and build attractive websites for our clients.\n\nResponsibilities\n- Design website layouts, landing pages and UI mockups\n- Convert designs into responsive HTML, CSS and JavaScript\n- Work with WordPress and Bootstrap\n- Optimize websites for SEO and performance\n\nRequirements\n- 1+ years of experience in web design\n- HTML5, CSS3, JavaScript, jQuery, Bootstrap\n- Adobe Photoshop, Illustrator or Figma\n- Strong sense of typography and UI design\n- Portfolio of web design work\n\nNice to have\n- PHP\n- SEO knowledge\n- UX design and wireframing"
+  },
+  {
+    "id": "devops-engineer",
+    "title": "DevOps Engineer",
+    "category": "DevOps",
+    "text": "DevOps Engineer\n\nOwn our cloud infrastructure and deployment pipelines.\n\nResponsibilities\n- Build and maintain CI/CD pipelines (Jenkins, GitHub Actions or GitLab CI)\n- Manage infrastructure as code with Terraform and Ansible\n- Run containerized workloads on Kubernetes\n- Set up monitoring and alerting with Prometheus and Grafana\n\nRequirements\n- 3+ years of DevOps or SRE experience\n- AWS or Azure\n- Docker and Kubernetes\n- Terraform, Ansible\n- Linux administration and Bash scripting\n- Git\n\nNice to have\n- Python scripting\n- Helm, ArgoCD\n- Security best practices and IAM"
+  },
+  {
+    "id": "qa-engineer",
+    "title": "QA Automation Engineer",
+    "category": "Testing",
+    "text": "QA Automation Engineer\n\nEnsure the quality of our web and mobile products.\n\nResponsibilities\n- Design test plans and test cases\n- Develop automated tests with Selenium WebDriver\n- Perform functional, regression and API testing (Postman)\n- Track defects in Jira and work closely with developers\n\nRequirements\n- 2+ years in software testing / QA\n- Test automation with Selenium and Java or Python\n- TestNG or JUnit\n- Manual testing, regression testing\n- Agile/Scrum experience\n\nNice to have\n- Cucumber / BDD\n- Performance testing with JMeter\n- CI/CD with Jenkins\n- Appium for mobile testing"
+  },
+  {
+    "id": "network-security-engineer",
+    "title": "Network Security Engineer",
+    "category": "Network Security Engineer",
+    "text": "Network Security Engineer\n\nProtect our network and infrastructure against threats.\n\nResponsibilities\n- Configure and manage firewalls, VPNs and IDS/IPS\n- Monitor security events with SIEM tools\n- Perform vulnerability assessments and coordinate remediation\n- Lead incident response\n\nRequirements\n- 3+ years in network security\n- TCP/IP, routing and switching, VLANs\n- Firewalls (Palo Alto, Fortinet or Cisco ASA)\n- Cisco networking (CCNA or CCNP)\n- Linux\n\nPreferred\n- Penetration testing tools (Nmap, Wireshark, Metasploit)\n- ISO 27001 or NIST frameworks\n- Cloud security on AWS or Azure"
+  },
+  {
+    "id": "database-administrator",
+    "title": "Database Administrator",
+    "category": "Database",
+    "text": "Database Administrator\n\nWe are looking for a DBA to keep our databases fast, secure and available.\n\nResponsibilities\n- Install, configure and maintain Oracle and SQL Server databases\n- Backup, recovery and high availability\n- Performance tuning and query optimization\n- Write PL/SQL and T-SQL scripts and stored procedures\n\nRequirements\n- 3+ years of database administration\n- Oracle Database and SQL Server\n- Strong SQL, PL/SQL\n- Linux and Windows Server\n- Database design\n\nNice to have\n- PostgreSQL, MySQL\n- Cloud databases on AWS or Azure\n- Shell scripting"
+  },
+  {
+    "id": "sql-developer",
+    "title": "SQL Developer",
+    "category": "SQL Developer",
+    "text": "SQL Developer\n\nBuild the data layer behind our reporting and applications.\n\nResponsibilities\n- Write complex SQL queries, stored procedures and views\n- Design database schemas and data models\n- Build reports with SSRS and Power BI\n- Optimize query performance\n\nRequirements\n- 2+ years of experience as a SQL Developer\n- T-SQL and SQL Server\n- Stored procedures and database design\n- SSIS for data integration\n- Microsoft Excel\n\nNice to have\n- Power BI or Tableau\n- Data warehousing\n- Python"
+  },
+  {
+    "id": "etl-developer",
+    "title": "ETL / Data Engineer",
+    "category": "ETL Developer",
+    "text": "ETL / Data Engineer\n\nDesign the data pipelines that feed our analytics platform.\n\nResponsibilities\n- Build ETL pipelines with Informatica, SSIS or Python\n- Model data for the data warehouse\n- Orchestrate workflows with Airflow\n- Ensure data quality and data governance\n\nRequirements\n- 3+ years of ETL development\n- Strong SQL\n- ETL tools (Informatica PowerCenter, SSIS or Talend)\n- Data warehousing and data modeling\n- Unix and shell scripting\n\nNice to have\n- Spark, Hadoop or Databricks\n- Snowflake or Redshift\n- Python"
+  },
+  {
+    "id": "business-analyst",
+    "title": "Business Analyst",
+    "category": "Business Analyst",
+    "text": "Business Analyst\n\nBridge business needs and technology solutions.\n\nResponsibilities\n- Gather and document business requirements and user stories\n- Map and improve business processes\n- Work with stakeholders and development teams in an Agile environment\n- Analyze data and build reports\n\nRequirements\n- 2+ years as a business analyst\n- Requirements gathering, stakeholder management\n- UML, process modeling\n- SQL and Microsoft Excel\n- Jira and Confluence\n- Excellent communication skills\n- Bachelor's degree\n\nNice to have\n- Power BI or Tableau\n- Scrum certification\n- Domain knowledge in banking or insurance"
+  },
+  {
+    "id": "sap-consultant",
+    "title": "SAP Consultant",
+    "category": "SAP Developer",
+    "text": "SAP Consultant\n\nSupport and extend our SAP landscape.\n\nResponsibilities\n- Develop and maintain programs in SAP ABAP\n- Configure SAP modules (FI/CO, MM, SD)\n- Work on SAP HANA and Fiori applications\n- Gather requirements and support end users\n\nRequirements\n- 3+ years of SAP experience\n- SAP ABAP\n- Knowledge of at least one module: SAP FICO, SAP MM or SAP SD\n- SAP HANA\n- Requirements gathering\n\nNice to have\n- SAP Fiori / SAPUI5\n- S/4HANA migration experience\n- Project management"
+  },
+  {
+    "id": "blockchain-developer",
+    "title": "Blockchain Developer",
+    "category": "Blockchain",
+    "text": "Blockchain Developer\n\nBuild decentralized applications on Ethereum.\n\nResponsibilities\n- Write and audit smart contracts in Solidity\n- Build dApp frontends with React and Web3.js\n- Test and deploy contracts with Hardhat or Truffle\n\nRequirements\n- 1+ years of blockchain development\n- Solidity and smart contracts\n- Ethereum\n- JavaScript and Node.js\n- Git\n\nNice to have\n- Hyperledger Fabric\n- Go or Rust\n- Cryptography"
+  },
+  {
+    "id": "it-support",
+    "title": "IT Support Specialist",
+    "category": "Information Technology",
+    "text": "IT Support Specialist\n\nKeep our employees productive with reliable IT support.\n\nResponsibilities\n- Provide help desk support for hardware, software and network issues\n- Manage user accounts in Active Directory\n- Install and configure Windows and Microsoft Office\n- Maintain LAN/WAN, VPN and network equipment\n\nRequirements\n- 2+ years of IT support experience\n- Windows Server and Active Directory\n- Networking basics: TCP/IP, DNS, DHCP\n- Microsoft Office and Microsoft 365\n- Customer service skills\n\nNice to have\n- ITIL certification\n- ServiceNow\n- PowerShell scripting\n- VMware"
+  },
+  {
+    "id": "accountant",
+    "title": "Staff Accountant",
+    "category": "Accountant",
+    "text": "Staff Accountant\n\nJoin our finance team to manage day-to-day accounting.\n\nResponsibilities\n- Maintain the general ledger and prepare journal entries\n- Handle accounts payable and accounts receivable\n- Prepare month-end close and financial statements\n- Support internal audit and tax preparation\n\nRequirements\n- 2+ years of accounting experience\n- Knowledge of GAAP\n- QuickBooks or another accounting software\n- Advanced Microsoft Excel (pivot tables, VLOOKUP)\n- Bachelor's degree in Accounting or Finance\n\nNice to have\n- CPA in progress\n- Payroll experience\n- ERP systems such as SAP or Oracle"
+  },
+  {
+    "id": "financial-analyst",
+    "title": "Financial Analyst",
+    "category": "Finance",
+    "text": "Financial Analyst\n\nSupport strategic decisions with sharp financial analysis.\n\nResponsibilities\n- Build financial models and forecasts\n- Prepare budgets and variance analysis (FP&A)\n- Produce financial reporting for leadership\n- Analyze investments and business cases\n\nRequirements\n- 2+ years in financial analysis or FP&A\n- Financial modeling and forecasting\n- Advanced Excel\n- Strong understanding of financial statements and accounting principles\n- Bachelor's degree in Finance, Economics or Accounting\n\nNice to have\n- Power BI or Tableau\n- SQL\n- CFA progress"
+  },
+  {
+    "id": "hr-generalist",
+    "title": "HR Generalist",
+    "category": "Human Resources",
+    "text": "HR Generalist\n\nSupport our people across the full employee lifecycle.\n\nResponsibilities\n- Manage recruitment and onboarding\n- Handle employee relations and performance management\n- Administer compensation and benefits and payroll inputs\n- Ensure compliance with employment law\n\nRequirements\n- 2+ years of HR experience\n- Recruitment and talent acquisition\n- Employee relations\n- HRIS such as Workday or SuccessFactors\n- Microsoft Office\n- Bachelor's degree in Human Resources or Business\n\nNice to have\n- SHRM or CIPD certification\n- Training and development programs\n- Payroll"
+  },
+  {
+    "id": "sales-executive",
+    "title": "Sales Executive (B2B)",
+    "category": "Sales",
+    "text": "Sales Executive (B2B)\n\nGrow our customer base and revenue.\n\nResponsibilities\n- Prospect and generate new leads through cold calling and networking\n- Manage the full sales cycle from demo to negotiation and closing\n- Maintain customer relationships and account management\n- Track pipeline in Salesforce or another CRM\n\nRequirements\n- 2+ years of B2B sales experience\n- Proven track record of meeting sales targets\n- Lead generation and negotiation skills\n- CRM experience (Salesforce, HubSpot)\n- Excellent communication skills\n\nNice to have\n- SaaS sales experience\n- Key account management\n- Microsoft Excel"
+  },
+  {
+    "id": "digital-marketer",
+    "title": "Digital Marketing Specialist",
+    "category": "Digital Media",
+    "text": "Digital Marketing Specialist\n\nDrive our online growth across channels.\n\nResponsibilities\n- Plan and run social media marketing campaigns\n- Manage SEO and SEM (Google Ads) campaigns\n- Create content and email marketing campaigns\n- Analyze performance with Google Analytics\n\nRequirements\n- 2+ years in digital marketing\n- SEO, Google Ads\n- Social media marketing\n- Content marketing and copywriting\n- Google Analytics\n\nNice to have\n- Adobe Photoshop or video editing\n- HubSpot or Mailchimp\n- Marketing analytics with Excel"
+  },
+  {
+    "id": "mechanical-engineer",
+    "title": "Mechanical Design Engineer",
+    "category": "Mechanical Engineer",
+    "text": "Mechanical Design Engineer\n\nDesign mechanical components and systems for industrial equipment.\n\nResponsibilities\n- Create 3D models and drawings in SolidWorks or AutoCAD\n- Perform finite element analysis (FEA) with ANSYS\n- Apply GD&T to engineering drawings\n- Support manufacturing and quality control\n\nRequirements\n- 2+ years of mechanical design experience\n- SolidWorks and AutoCAD\n- FEA / ANSYS\n- GD&T\n- Bachelor's degree in Mechanical Engineering\n\nNice to have\n- Lean manufacturing or Six Sigma\n- HVAC or thermodynamics\n- CATIA"
+  },
+  {
+    "id": "civil-engineer",
+    "title": "Civil / Structural Engineer",
+    "category": "Civil Engineer",
+    "text": "Civil / Structural Engineer\n\nDeliver safe and efficient construction projects.\n\nResponsibilities\n- Perform structural analysis and design\n- Prepare drawings in AutoCAD and Revit\n- Supervise construction sites and coordinate contractors\n- Prepare cost estimation and project schedules\n\nRequirements\n- 3+ years of civil engineering experience\n- Structural analysis (STAAD Pro or ETABS)\n- AutoCAD\n- Construction management and site supervision\n- Bachelor's degree in Civil Engineering\n\nNice to have\n- Revit / BIM\n- Primavera P6\n- Surveying"
+  },
+  {
+    "id": "electrical-engineer",
+    "title": "Electrical Engineer",
+    "category": "Electrical Engineering",
+    "text": "Electrical Engineer\n\nDesign and maintain electrical systems for industrial facilities.\n\nResponsibilities\n- Electrical design of power systems and control panels\n- Program and troubleshoot PLC and SCADA systems\n- Prepare electrical drawings in AutoCAD\n- Ensure compliance with safety standards\n\nRequirements\n- 2+ years of electrical engineering experience\n- Electrical design and power systems\n- PLC programming and SCADA\n- AutoCAD\n- Bachelor's degree in Electrical Engineering\n\nNice to have\n- Embedded systems / microcontrollers\n- PCB design\n- Project management"
+  },
+  {
+    "id": "project-manager",
+    "title": "IT Project Manager (PMO)",
+    "category": "PMO",
+    "text": "IT Project Manager (PMO)\n\nLead IT projects from initiation to delivery.\n\nResponsibilities\n- Plan projects, manage scope, budget and schedule\n- Manage risks and stakeholders\n- Run Agile and Waterfall projects\n- Report project status to the PMO and leadership\n\nRequirements\n- 4+ years of project management experience\n- PMP or PRINCE2 certification\n- Risk management and budget management\n- Stakeholder management\n- Microsoft Project or Jira\n- Bachelor's degree\n\nNice to have\n- Scrum Master certification\n- Change management\n- Portfolio management"
+  },
+  {
+    "id": "operations-manager",
+    "title": "Operations Manager",
+    "category": "Operations Manager",
+    "text": "Operations Manager\n\nRun efficient daily operations across our sites.\n\nResponsibilities\n- Oversee operations management, staffing and scheduling\n- Manage inventory, logistics and supply chain\n- Improve processes using lean principles\n- Manage budgets and KPIs\n\nRequirements\n- 4+ years of operations management experience\n- Supply chain and inventory management\n- Budgeting\n- Process improvement\n- Leadership and team management\n- Bachelor's degree in Business or related field\n\nNice to have\n- Lean Six Sigma\n- ERP systems (SAP)\n- Microsoft Excel"
+  },
+  {
+    "id": "graphic-designer",
+    "title": "Graphic / UI Designer",
+    "category": "Designing",
+    "text": "Graphic / UI Designer\n\nCreate beautiful visual designs for print and digital products.\n\nResponsibilities\n- Design branding, marketing materials and social media visuals\n- Create UI designs, wireframes and prototypes\n- Prepare print-ready files\n\nRequirements\n- 2+ years of graphic design experience\n- Adobe Photoshop, Illustrator and InDesign\n- Figma\n- Typography and branding\n- Strong portfolio\n\nNice to have\n- After Effects or video editing\n- UX design\n- Photography"
+  }
+]

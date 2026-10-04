@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Dataset: downloaded automatically by `python -m talentmatch.train` (65 MB)
+data/raw/
+data/processed/
+
+# Editors / OS
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,230 @@
+{
+  "project": "TalentMatch",
+  "sklearn_version": "1.9.1",
+  "version": "1.0.0",
+  "trained_at": "2026-10-04T15:15:48+00:00",
+  "dataset": {
+    "name": "Resume-Classification-Dataset (noran-mohamed, MIT)",
+    "unique_resumes": 12033,
+    "categories": 43,
+    "train": 9626,
+    "test": 2407
+  },
+  "classifier_comparison": [
+    {
+      "model": "Linear SVM",
+      "macro_f1": 0.8093,
+      "macro_f1_std": 0.0069,
+      "seconds": 23.2
+    },
+    {
+      "model": "Logistic Regression",
+      "macro_f1": 0.8036,
+      "macro_f1_std": 0.0055,
+      "seconds": 53.5
+    },
+    {
+      "model": "Complement Naive Bayes",
+      "macro_f1": 0.7068,
+      "macro_f1_std": 0.0026,
+      "seconds": 19.5
+    }
+  ],
+  "classifier": {
+    "model": "Linear SVM",
+    "accuracy": 0.8338,
+    "macro_f1": 0.8329,
+    "top3_accuracy": 0.9506
+  },
+  "top_confusions": [
+    {
+      "actual": "SQL Developer",
+      "predicted": "Database",
+      "n": 12
+    },
+    {
+      "actual": "Automobile",
+      "predicted": "Sales",
+      "n": 7
+    },
+    {
+      "actual": "Database",
+      "predicted": "SQL Developer",
+      "n": 5
+    },
+    {
+      "actual": "Designing",
+      "predicted": "Apparel",
+      "n": 5
+    },
+    {
+      "actual": "Finance",
+      "predicted": "Accountant",
+      "n": 5
+    },
+    {
+      "actual": "Accountant",
+      "predicted": "Finance",
+      "n": 4
+    },
+    {
+      "actual": "Data Science",
+      "predicted": "Education",
+      "n": 4
+    },
+    {
+      "actual": "Education",
+      "predicted": "Advocate",
+      "n": 4
+    }
+  ],
+  "matching_eval": {
+    "n_resumes": 1484,
+    "n_jobs": 27,
+    "metrics": {
+      "Skills only": {
+        "top1": 0.5418,
+        "top3": 0.7925,
+        "mrr": 0.6869
+      },
+      "Semantic only": {
+        "top1": 0.7487,
+        "top3": 0.9057,
+        "mrr": 0.8364
+      },
+      "Role alignment only": {
+        "top1": 0.8807,
+        "top3": 0.9764,
+        "mrr": 0.9293
+      },
+      "Hand-set weights": {
+        "top1": 0.8086,
+        "top3": 0.9252,
+        "mrr": 0.8729
+      },
+      "Tuned weights": {
+        "top1": 0.8416,
+        "top3": 0.9387,
+        "mrr": 0.8953
+      }
+    }
+  },
+  "match_weights": {
+    "required_skills": 0.3,
+    "preferred_skills": 0.05,
+    "semantic": 0.2,
+    "role_alignment": 0.3,
+    "experience": 0.1,
+    "education": 0.05
+  },
+  "weight_tuning": {
+    "validation_mrr_default": 0.8972,
+    "validation_mrr_tuned": 0.9133
+  },
+  "semantic_calibration": {
+    "low": 0.0704,
+    "high": 0.7599
+  },
+  "corpus_top_skills": [
+    [
+      "Customer service",
+      863
+    ],
+    [
+      "Communication",
+      838
+    ],
+    [
+      "Microsoft Office",
+      820
+    ],
+    [
+      "Problem solving",
+      757
+    ],
+    [
+      "Project management",
+      602
+    ],
+    [
+      "Microsoft Excel",
+      596
+    ],
+    [
+      "Leadership",
+      574
+    ],
+    [
+      "Sales",
+      570
+    ],
+    [
+      "SQL",
+      531
+    ],
+    [
+      "Software testing",
+      437
+    ],
+    [
+      "Operations management",
+      435
+    ],
+    [
+      "Agile",
+      370
+    ],
+    [
+      "Time management",
+      365
+    ],
+    [
+      "Oracle",
+      355
+    ],
+    [
+      "HTML",
+      334
+    ],
+    [
+      "SQL Server",
+      290
+    ],
+    [
+      "Linux",
+      286
+    ],
+    [
+      "Requirements gathering",
+      280
+    ],
+    [
+      "Java",
+      279
+    ],
+    [
+      "JavaScript",
+      272
+    ],
+    [
+      "Data analysis",
+      268
+    ],
+    [
+      "Supply chain",
+      267
+    ],
+    [
+      "Accounting",
+      265
+    ],
+    [
+      "CSS",
+      257
+    ],
+    [
+      "Critical thinking",
+      241
+    ]
+  ]
+}

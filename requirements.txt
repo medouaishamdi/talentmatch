@@ -1,0 +1,26 @@
+# Core
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.9,<1.10  # the saved model was trained with 1.9 (retrain if you change it)
+joblib>=1.4
+matplotlib>=3.9
+
+# Document parsing
+pypdf>=5.0
+python-docx>=1.1
+ftfy>=6.2
+
+# API
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+python-multipart>=0.0.9
+
+# Dashboard
+streamlit>=1.40
+plotly>=5.24
+
+# Tests / sample generation
+pytest>=8.0
+httpx>=0.27
+reportlab>=4.0

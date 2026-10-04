@@ -1,0 +1,14 @@
+services:
+  api:
+    build: .
+    image: talentmatch
+    ports:
+      - "8000:8000"
+
+  dashboard:
+    image: talentmatch
+    depends_on:
+      - api
+    command: ["streamlit", "run", "dashboard/app.py", "--server.address=0.0.0.0", "--server.port=8501"]
+    ports:
+      - "8501:8501"
