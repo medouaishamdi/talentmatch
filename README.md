@@ -1,4 +1,4 @@
-# 🎯 TalentMatch: AI Resume Analyzer & Job Matching
+# TalentMatch: AI Resume Analyzer & Job Matching
 
 TalentMatch reads a CV (PDF or DOCX), extracts skills, experience and education, scores the CV's
 quality, and **matches it against job descriptions with an explainable score**: which requirements
